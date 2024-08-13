@@ -1,9 +1,8 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<!--
-**nrzqi/nrzqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nabila Rizqi Mahardika** is the name, a versatile and dedicated Computer Engineering graduate with a strong passion in web development. I am continuously seeking opportunities to learn and grow in the dynamic world of technology, and eager to explore new areas and expand my knowledge in various technological domains.
 
-Here are some ideas to get you started:
+*   ✉️  You can contact me at [nabilarizqimahardika37@gmail.com](mailto:nabilarizqimahardika37@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
